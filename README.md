@@ -1,6 +1,5 @@
-# Paradise Nursery Shopping Application
-
-A dynamic React-based e-commerce web application for an online plant shop called **Paradise Nursery**.
+# e-plantShopping (Paradise Nursery Shopping Application)
+A dynamic React-based e-commerce web application for an online plant shop called **e-plantShopping** (also known as **Paradise Nursery**).
 
 ## Project Overview
 
